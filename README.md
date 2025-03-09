@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chukwudi Okereafor | Data Scientist & Analyst</title>
+    <title>Ini Bassey | Data Scientist & Analyst</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
 <body class="bg-gray-100">
@@ -35,7 +35,7 @@
         <h4 class="text-xl font-semibold"><a href="https://drive.google.com/drive/folders/1GUpM7gtAKU-Spv7Kn8SABI2yMkJ2d8cv
 " class="text-blue-600 hover:underline">Maji Ndogo water project</a></h4>
         <p class="text-gray-600 mb-4">This project focuses on analyzing water quality data, infrastructure improvements, and employee performance for water sources in various locations. The project uses SQL to join and filter data across multiple tables, identify problematic sources, and track project progress.</p>
-        <a href="https://github.com"><img src="Maji_first_page.png" alt=Maji Ndogo water projec"" class="rounded-xl"></a>
+        <a href="https://github.com"><img src="Maji_first_page.png" alt=Maji Ndogo water project" class="rounded-xl"></a>
     </div>
     <div class="mb-4">
         <h4 class="text-xl font-semibold"><a href="https://github.com" class="text-blue-600 hover:underline">Human Resources Analysis Dashboard</a></h4>
