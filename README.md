@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ini Bassey | Data Scientist & Analyst</title>
+    <title>Ini Bassey | Data Analyst</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
 </head>
 <body class="bg-gray-100">
@@ -12,7 +12,7 @@
         <aside class="w-full md:w-1/3 bg-white rounded-2xl shadow-lg p-6 mb-8 md:mb-0">
             <img src="p_pix.jpg" alt="Ini Bassey" class="rounded-full mx-auto mb-4">
             <h2 class="text-2xl font-bold text-center">Ini Bassey</h2>
-            <p class="text-center text-gray-600">Data Scientist & Analyst</p>
+            <p class="text-center text-gray-600">Data Analyst</p>
             <p class="text-center mt-4">I am a Data Scientist and Analyst with a strong background in SQL, Power BI, Machine Learning, and Deep Learning. I am passionate about using data-driven insights to solve complex business challenges and drive strategic decision-making. With experience in geospatial analysis, web scraping, computer vision, and NLP classification, I bring a versatile skill set to every project I undertake.</p><p class="text-center mt-4">My journey in data science has been fueled by a curiosity to explore new opportunities and a commitment to continuous learning. I am dedicated to leveraging my expertise to provide actionable insights and innovative solutions, making a meaningful impact in every organization I work with.</p>
             <div class="mt-6 text-center">
                 <a href="https://www.linkedin.com/in/michael-okereafor/" class="text-blue-600 hover:underline block">LinkedIn Profile</a>
